@@ -1,0 +1,102 @@
+id,urun,kategori,ulke,yerel_fiyat,tl_karsiligi,birim,tarih,kaynak
+B01,Big Mac,Yemek,Arjantin,ARS 8.700,292.83,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B02,Big Mac,Yemek,Avustralya,"A$8,50",295.31,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B03,Big Mac,Yemek,Azerbaycan,"AZN 7,25",212.62,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B04,Big Mac,Yemek,Bahreyn,"BHD 1,80",236.68,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B05,Big Mac,Yemek,Brezilya,"R$23,90",233.28,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B06,Big Mac,Yemek,İngiltere,"£5,49",363.88,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B07,Big Mac,Yemek,Kanada,"C$8,17",288.45,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B08,Big Mac,Yemek,Şili,CLP 4.990,268.12,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B09,Big Mac,Yemek,Çin,"¥26,50",197.83,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B10,Big Mac,Yemek,Kolombiya,COP 25.900,396.77,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B11,Big Mac,Yemek,Kosta Rika,CRC 3.150,346.83,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B12,Big Mac,Yemek,Çekya,"CZK 115,00",269.41,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B13,Big Mac,Yemek,Danimarka,"DKK 46,00",342.82,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B14,Big Mac,Yemek,Mısır,"EGP 145,00",142.27,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B15,Big Mac,Yemek,Euro Bölgesi,"€6,19",344.28,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B16,Big Mac,Yemek,Guatemala,"GTQ 34,00",221.22,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B17,Big Mac,Yemek,Honduras,"HNL 139,00",257.43,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B18,Big Mac,Yemek,Hong Kong,"HK$25,50",161.28,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B19,Big Mac,Yemek,Macaristan,HUF 1.660,262.64,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B20,Big Mac,Yemek,Hindistan,₹236,121.67,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B21,Big Mac,Yemek,Endonezya,IDR 43.000,118.01,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B22,Big Mac,Yemek,İsrail,"ILS 23,00",380.19,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B23,Big Mac,Yemek,Japonya,¥500,157.13,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B24,Big Mac,Yemek,Ürdün,"JOD 2,50",174.82,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B25,Big Mac,Yemek,Kuveyt,"KWD 1,40",226.62,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B26,Big Mac,Yemek,Lübnan,LBP 480.000,265.74,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B27,Big Mac,Yemek,Malezya,"RM14,55",176.89,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B28,Big Mac,Yemek,Meksika,"MX$109,00",310.82,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B29,Big Mac,Yemek,Moldova,"MDL 80,00",226.0,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B30,Big Mac,Yemek,Yeni Zelanda,"NZD 8,80",254.64,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B31,Big Mac,Yemek,Nikaragua,"NIO 187,00",253.14,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B32,Big Mac,Yemek,Norveç,"NOK 78,00",412.87,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B33,Big Mac,Yemek,Umman,"OMR 1,53",197.0,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B34,Big Mac,Yemek,Pakistan,PKR 1.080,194.54,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B35,Big Mac,Yemek,Peru,"PEN 16,90",247.47,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B36,Big Mac,Yemek,Filipinler,"PHP 169,00",135.83,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B37,Big Mac,Yemek,Polonya,"PLN 23,50",308.29,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B38,Big Mac,Yemek,Katar,"QAR 18,00",246.2,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B39,Big Mac,Yemek,Romanya,"RON 18,35",192.62,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B40,Big Mac,Yemek,Suudi Arabistan,"SAR 19,00",251.13,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B41,Big Mac,Yemek,Singapur,"S$7,45",286.31,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B42,Big Mac,Yemek,Güney Afrika,"ZAR 56,90",172.8,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B43,Big Mac,Yemek,Güney Kore,₩5.700,214.03,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B44,Big Mac,Yemek,İsveç,"SEK 69,00",346.74,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B45,Big Mac,Yemek,İsviçre,"CHF 7,30",439.88,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B46,Big Mac,Yemek,Tayvan,"TWD 78,00",120.14,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B47,Big Mac,Yemek,Tayland,"฿135,00",199.08,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B48,Big Mac,Yemek,Ukrayna,"UAH 149,00",165.37,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B49,Big Mac,Yemek,BAE,"AED 19,00",257.91,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B50,Big Mac,Yemek,ABD,"$6,22",308.38,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B51,Big Mac,Yemek,Uruguay,UYU 359,443.13,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B52,Big Mac,Yemek,Venezuela,VES 3.267,223.46,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+B53,Big Mac,Yemek,Vietnam,VND 76.000,143.51,"tek burger, menü değil",Tem 2026,"The Economist Big Mac Index (MIT), github.com/TheEconomist/big-mac-data"
+I01,iPhone 18 Pro 256 GB,Teknoloji,ABD,$1.199,59444.02,"Apple liste fiyatı, vergi hariç",Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I02,iPhone 18 Pro 256 GB,Teknoloji,Kanada,C$1.836,64821.82,"Apple liste fiyatı, vergi hariç",Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I03,iPhone 18 Pro 256 GB,Teknoloji,Hong Kong,HK$10.499,66401.68,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I04,iPhone 18 Pro 256 GB,Teknoloji,Malezya,RM5.499,66853.71,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I05,iPhone 18 Pro 256 GB,Teknoloji,BAE,AED 5.099,69215.36,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I06,iPhone 18 Pro 256 GB,Teknoloji,Japonya,¥219.800,69076.33,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I07,iPhone 18 Pro 256 GB,Teknoloji,İsviçre,CHF 1.199,72248.86,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I08,iPhone 18 Pro 256 GB,Teknoloji,Tayland,฿48.900,72110.77,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I09,iPhone 18 Pro 256 GB,Teknoloji,Avustralya,A$2.099,72924.72,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I10,iPhone 18 Pro 256 GB,Teknoloji,Güney Kore,₩1.990.000,74724.5,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I11,iPhone 18 Pro 256 GB,Teknoloji,Singapur,S$1.899,72980.6,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I12,iPhone 18 Pro 256 GB,Teknoloji,Çin,¥9.999,74643.53,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I13,iPhone 18 Pro 256 GB,Teknoloji,İngiltere,£1.199,79471.28,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I14,iPhone 18 Pro 256 GB,Teknoloji,Almanya,€1.449,80592.08,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I15,iPhone 18 Pro 256 GB,Teknoloji,İsveç,SEK 16.495,82890.67,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I16,iPhone 18 Pro 256 GB,Teknoloji,İspanya,€1.469,81704.46,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I17,iPhone 18 Pro 256 GB,Teknoloji,Meksika,MX$29.999,85545.29,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I18,iPhone 18 Pro 256 GB,Teknoloji,Fransa,€1.479,82260.65,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I19,iPhone 18 Pro 256 GB,Teknoloji,Hollanda,€1.479,82260.65,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I20,iPhone 18 Pro 256 GB,Teknoloji,İtalya,€1.489,82816.84,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I21,iPhone 18 Pro 256 GB,Teknoloji,Hindistan,₹164.900,84927.22,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+I22,iPhone 18 Pro 256 GB,Teknoloji,Brezilya,R$11.999,117118.61,Apple liste fiyatı,Eyl 2026,https://www.businesstoday.in/technology/news/story/iphone-18-pro-price-around-the-world-india-at-rs1-65-lakh-turkiye-tops-the-list-560260-2026-10-08
+AU01,1 litre süt,Market,ABD,"$4,11 / galon",53.78,"tam yağlı, BLS ortalaması",Eyl 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU02,12 yumurta,Market,ABD,"$2,27 / düzine",112.64,"büyük boy, BLS ortalaması",Eyl 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU03,1 kg patates,Market,ABD,"$0,99 / pound",108.1,BLS ortalaması,Eyl 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU04,1 kg domates,Market,ABD,"$1,98 / pound",216.09,BLS ortalaması,Ağu 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU05,1 kg dana kıyma,Market,ABD,"$6,79 / pound",742.37,"%100 dana, BLS ortalaması",Eyl 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU06,1 kg ekmek,Market,ABD,"$1,83 / pound",200.02,"beyaz tost ekmeği, BLS",Eyl 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU07,1 kg filtre kahve,Market,ABD,"$9,33 / pound",1019.99,"öğütülmüş, BLS ortalaması",Eyl 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU08,1 kg bütün tavuk,Market,ABD,"$2,01 / pound",219.91,BLS ortalaması,Ağu 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU09,1 kg muz,Market,ABD,"$0,65 / pound",71.26,BLS ortalaması,Ağu 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU10,1 kWh elektrik,Enerji,ABD,"$0,196 / kWh",9.72,"konut, BLS ortalaması",Eyl 2026,"U.S. Bureau of Labor Statistics Average Price Data (FRED, APU serileri)"
+AU11,Spor salonu üyeliği,Fitness,ABD,"$15,00",743.67,"Planet Fitness Classic, aylık",2024'ten beri,
+AU12,1 litre benzin,Akaryakıt,ABD,"$4,30 / galon",56.25,ulusal ortalama,19 Eki 2026,
+AU13,50 litrelik benzin deposu,Akaryakıt,ABD,"$56,73",2812.61,ulusal ortalama,19 Eki 2026,
+AU14,Metro / otobüs biniş,Ulaşım,ABD,"$3,00",148.73,"New York, tek biniş",Oca 2026,
+AU15,Kira,Konut,ABD,$5.395,267473.31,"Manhattan, aylık medyan",Eyl 2026,
+AU16,"Asgari ücret, 1 saat",Maaş,ABD,"$7,25",359.44,"federal, brüt",2026,
+AU17,Netflix Standart,Abonelik,ABD,"$19,99",991.06,aylık,Mar 2026,
+AU18,Netflix Premium,Abonelik,ABD,"$26,99",1338.11,aylık,Mar 2026,
+AU19,Spotify Bireysel,Abonelik,ABD,"$12,99",644.02,aylık,Şub 2026,
+AU20,PS5 diskli,Teknoloji,ABD,"$649,99",32225.2,Sony liste fiyatı,Nis 2026,
+X01,PS5 diskli,Teknoloji,Euro Bölgesi,"€649,99",36151.86,Sony liste fiyatı,Nis 2026,
+X02,Aylık toplu taşıma kartı,Ulaşım,Almanya,"€63,00",3504.0,"Deutschlandticket, tüm Almanya",Oca 2026,
+X03,"Asgari ücret, 1 saat",Maaş,Almanya,"€13,90",773.11,brüt,2026,
+X04,"Asgari ücret, 1 saat",Maaş,İngiltere,"£12,71",842.44,brüt (National Living Wage),Nis 2026,
+X05,Aylık asgari ücret,Maaş,Almanya,€2.409,134004.95,"brüt, haftada 40 saat",2026,
+X06,5 kg pirinç,Market,Japonya,¥2.860,898.81,süpermarket ortalaması (Tarım Bakanlığı),Eki 2026,
