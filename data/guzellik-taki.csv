@@ -1,0 +1,48 @@
+id,urun,kategori,ulke,fiyat_tl,yerel_fiyat,birim,tarih,kaynak
+GZ01,Maybelline Sky High maskara,Makyaj,Türkiye,1049.5,,Gratis,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ02,L'Oréal Paradise maskara,Makyaj,Türkiye,999.5,,"Gratis, kartsız fiyat",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ03,Golden Rose mat ruj kalemi,Makyaj,Türkiye,209,,Gratis,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ04,Flormar oje,Makyaj,Türkiye,79,,"Full Color, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ05,Note BB krem fondöten,Makyaj,Türkiye,624,,Gratis,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ06,Flormar kapatıcı,Makyaj,Türkiye,599,,"Stay Perfect, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ07,Flormar likit allık,Makyaj,Türkiye,449,,Gratis,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ08,L'Oréal aydınlatıcı,Makyaj,Türkiye,899,,"Lumi Glotion, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ09,Göz kalemi,Makyaj,Türkiye,99,,"Beaulis, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ10,Chanel Les Beiges pudra,Makyaj,Türkiye,3300,,"12 g, Sephora",21 Eki 2026,https://www.sephora.com.tr/
+GZ11,Chanel N°5 parfüm 50 ml,Parfüm,Türkiye,7250,,"Eau de Parfum, Chanel Türkiye",21 Eki 2026,https://www.chanel.com/tr/parfumler/p/125530/n5-eau-de-parfum-spray/
+GZ12,Chanel N°5 parfüm 100 ml,Parfüm,Türkiye,10000,,"Eau de Parfum, Chanel Türkiye",21 Eki 2026,https://www.chanel.com/tr/parfumler/p/125530/n5-eau-de-parfum-spray/
+GZ13,Chanel N°5 parfüm 35 ml,Parfüm,Türkiye,5050,,"Eau de Parfum, Chanel Türkiye",21 Eki 2026,https://www.chanel.com/tr/parfumler/p/125530/n5-eau-de-parfum-spray/
+GZ14,Chanel N°5 sabun,Parfüm,Türkiye,2150,,Chanel Türkiye,21 Eki 2026,https://www.chanel.com/tr/parfumler/p/105550/n5-refillable-spray-eau-de-toilette/
+GZ15,Chanel N°5 vücut losyonu,Parfüm,Türkiye,3950,,Chanel Türkiye,21 Eki 2026,https://www.chanel.com/tr/parfumler/p/105550/n5-refillable-spray-eau-de-toilette/
+GZ16,Dyson Airwrap Co-anda 2x,Bakım,Türkiye,36999,,MediaMarkt,21 Eki 2026,https://www.mediamarkt.com.tr/tr/product/_dyson-airwrap-co-anda-2xtm-sac-sekillendirici-seramik-pembe-1251629.html
+GZ17,Dyson Airwrap i.d.,Bakım,Türkiye,44999,,MediaMarkt,21 Eki 2026,https://www.mediamarkt.com.tr/tr/product/_dyson-airwrap-idtm-sac-sekillendirme-ve-kurutma-seti-kivircikbukleli-seramik-patina-topaz-1248374.html
+GZ18,Manikür,Salon,Türkiye,525,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ19,Pedikür,Salon,Türkiye,675,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ20,Protez tırnak,Salon,Türkiye,2250,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ21,Klasik cilt bakımı,Salon,Türkiye,2175,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ22,Kimyasal peeling,Salon,Türkiye,3300,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ23,Profesyonel makyaj,Salon,Türkiye,4500,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ24,Gece makyajı,Salon,Türkiye,1800,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ25,Yüz ağdası,Salon,Türkiye,600,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ26,Kaş boyama,Salon,Türkiye,600,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ27,Tüm vücut lazer epilasyon,Salon,Türkiye,5250,,"tek seans, İstanbul güzellik salonu ortalaması",2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ28,1 dakika solaryum,Salon,Türkiye,180,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ29,"0,30 karat tektaş yüzük",Takı,Türkiye,138420.97,,"pırlanta, 18 ayar, online satış",21 Eki 2026,"https://www.cimri.com/pirlanta-tek-tas-yuzuk/en-ucuz-harem-altin-rm0730-0-30-karat-tektas-pirlanta-yuzuk-fiyatlari,72451172"
+GZ30,1 gram 22 ayar bilezik,Takı,Türkiye,6006,,"Kapalıçarşı satış, işçilik hariç",20 Eki 2026,https://www.birgun.net/haber/20-ekim-2026-sali-guncel-altin-fiyatlari-741360
+GZ31,20 gramlık 22 ayar bilezik,Takı,Türkiye,120120,,"gram fiyatından, işçilik hariç",20 Eki 2026,https://www.birgun.net/haber/20-ekim-2026-sali-guncel-altin-fiyatlari-741360
+GZ32,4 gramlık 14 ayar alyans,Takı,Türkiye,15546.24,,"altın değeri, işçilik hariç",20 Eki 2026,https://anlikaltinfiyatlari.com/
+GZ33,1 gram 18 ayar altın,Takı,Türkiye,4999.83,,,20 Eki 2026,https://anlikaltinfiyatlari.com/
+GZ34,Gelinlik kiralama,Düğün,Türkiye,22500,,"standart model, 20–25 bin TL",Nis 2026,https://www.eleman.net/is-rehberi/maaslar-ve-ucretler/gelinlik-kiralama-fiyatlari-h20721
+GZ35,Düğün fotoğrafçısı,Düğün,Türkiye,27000,,ortalama,2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ36,Düğün salonu,Düğün,Türkiye,81000,,ortalama,2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ37,Söz ve nişan,Düğün,Türkiye,71000,,ortalama,2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ38,Geline takılan takılar,Düğün,Türkiye,63500,,"5'i bir yerde, ortalama",2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ39,1 yıl her ay manikür,Salon,Türkiye,6300,,12 manikür,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ40,1 yıl her ay protez tırnak,Salon,Türkiye,27000,,12 seans,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ41,100 Flormar oje,Makyaj,Türkiye,7900,,100 × 79 TL,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GW01,Chanel N°5 parfüm 50 ml,Parfüm,US,7833.32,$158,"Chanel ABD, vergi hariç",Eki 2026,https://www.chanel.com/us/fragrance/p/125530/n5-eau-de-parfum-spray/
+GW02,Chanel N°5 parfüm 50 ml,Parfüm,UK,7622.35,£115,Chanel İngiltere,Eki 2026,https://www.chanel.com/gb/fragrance/p/125530/n5-eau-de-parfum-spray/
+GW03,Chanel N°5 parfüm 50 ml,Parfüm,FR,7119.24,€128,Chanel Fransa,Eki 2026,https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/
+GW04,Chanel N°5 parfüm 50 ml,Parfüm,JP,6464.51,¥20.570,Chanel Japonya,Eki 2026,https://www.chanel.com/jp/fragrance/p/125530/n5-eau-de-parfum-spray/
+GW05,Dyson Airwrap Co-anda 2x,Bakım,US,37183.0,"$749,99","liste fiyatı, vergi hariç",Eki 2026,https://www.techradar.com/home/hair-care/what-is-the-dyson-airwrap-co-anda-2x-and-how-is-it-better-than-the-airwrap
+GW06,Dyson Airwrap Co-anda 2x,Bakım,UK,38442.49,"£579,99",liste fiyatı,Eki 2026,https://www.techradar.com/home/hair-care/what-is-the-dyson-airwrap-co-anda-2x-and-how-is-it-better-than-the-airwrap
