@@ -1,6 +1,6 @@
 # Hangisi Daha Pahalı?
 
-Retro arcade tarzında bir fiyat tahmin oyunu. Ekranda iki ürün çıkar, hangisinin daha pahalı olduğunu bulursun. Yayıncıların canlı yayında oynayabilmesi için tasarlandı.
+Retro arcade tarzında bir fiyat tahmin oyunu. Toplam 300 fiyat: Türkiye'den 188, dünyadan 112. Ekranda iki ürün çıkar, hangisinin daha pahalı olduğunu bulursun. Yayıncıların canlı yayında oynayabilmesi için tasarlandı.
 
 ## Modlar
 
@@ -10,7 +10,7 @@ Retro arcade tarzında bir fiyat tahmin oyunu. Ekranda iki ürün çıkar, hangi
 
 ## Fiyat paketleri
 
-- **Türkiye:** 117 kalem. Market (sebze, çay, şeker, yağ, peynir...), sokak lezzetleri (simit, lahmacun, döner), resmi harçlar ve cezalar (pasaport, IMEI kaydı, bedelli askerlik, kırmızı ışık), ulaşım ve otoyol, eğlence (GTA 6, sinema, Süper Lig kombineleri), sigara ve rakı, berber, kira ve konut, otomobil, altın ve döviz.
+- **Türkiye:** 188 kalem. Market (sebze, çay, şeker, yağ, peynir...), sokak lezzetleri (simit, lahmacun, döner), resmi harçlar ve cezalar (pasaport, IMEI kaydı, bedelli askerlik, kırmızı ışık), ulaşım ve otoyol, eğlence (GTA 6, sinema, Süper Lig kombineleri), sigara ve rakı, berber, kira ve konut, otomobil, altın ve döviz.
 - **Dünya:** 60'tan fazla ülke. 55 ülkede Big Mac, 23 ülkede iPhone 18 Pro, ABD market fiyatları (süt, yumurta, patates, kıyma, kahve...), elektrik, spor salonu, asgari ücret. Turların çoğu "aynı ürün, farklı ülke" karşılaştırmasıdır.
 - **Karışık:** İkisi bir arada. Aynı ürünün Türkiye ve yurt dışı fiyatları sık sık karşılaşır.
 
