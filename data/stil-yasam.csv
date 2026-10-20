@@ -1,0 +1,258 @@
+id,urun,kategori,magaza,ulke,fiyat_tl,yerel_fiyat,birim,tarih,kaynak
+GZ01,Maybelline Sky High maskara,Makyaj,Gratis,TR,1049.5,,Gratis,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ02,L'Oréal Paradise maskara,Makyaj,Gratis,TR,999.5,,"Gratis, kartsız fiyat",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ03,Golden Rose mat ruj kalemi,Makyaj,Gratis,TR,209,,Gratis,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ04,Flormar oje,Makyaj,Gratis,TR,79,,"Full Color, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ05,Note BB krem fondöten,Makyaj,Gratis,TR,624,,Gratis,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ06,Flormar kapatıcı,Makyaj,Gratis,TR,599,,"Stay Perfect, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ08,L'Oréal aydınlatıcı,Makyaj,Gratis,TR,899,,"Lumi Glotion, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ09,Göz kalemi,Makyaj,Gratis,TR,99,,"Beaulis, Gratis",21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GZ10,Chanel Les Beiges pudra,Makyaj,Sephora,TR,3300,,"12 g, Sephora",21 Eki 2026,https://www.sephora.com.tr/
+GZ11,Chanel N°5 parfüm 50 ml,Parfüm,Chanel Türkiye,TR,7250,,"Eau de Parfum, Chanel Türkiye",21 Eki 2026,https://www.chanel.com/tr/parfumler/p/125530/n5-eau-de-parfum-spray/
+GZ12,Chanel N°5 parfüm 100 ml,Parfüm,Chanel Türkiye,TR,10000,,"Eau de Parfum, Chanel Türkiye",21 Eki 2026,https://www.chanel.com/tr/parfumler/p/125530/n5-eau-de-parfum-spray/
+GZ13,Chanel N°5 parfüm 35 ml,Parfüm,Chanel Türkiye,TR,5050,,"Eau de Parfum, Chanel Türkiye",21 Eki 2026,https://www.chanel.com/tr/parfumler/p/125530/n5-eau-de-parfum-spray/
+GZ14,Chanel N°5 sabun,Parfüm,Chanel Türkiye,TR,2150,,Chanel Türkiye,21 Eki 2026,https://www.chanel.com/tr/parfumler/p/105550/n5-refillable-spray-eau-de-toilette/
+GZ15,Chanel N°5 vücut losyonu,Parfüm,Chanel Türkiye,TR,3950,,Chanel Türkiye,21 Eki 2026,https://www.chanel.com/tr/parfumler/p/105550/n5-refillable-spray-eau-de-toilette/
+GZ16,Dyson Airwrap Co-anda 2x,Cihaz,MediaMarkt,TR,36999,,MediaMarkt,21 Eki 2026,https://www.mediamarkt.com.tr/tr/product/_dyson-airwrap-co-anda-2xtm-sac-sekillendirici-seramik-pembe-1251629.html
+GZ17,Dyson Airwrap i.d.,Cihaz,MediaMarkt,TR,44999,,MediaMarkt,21 Eki 2026,https://www.mediamarkt.com.tr/tr/product/_dyson-airwrap-idtm-sac-sekillendirme-ve-kurutma-seti-kivircikbukleli-seramik-patina-topaz-1248374.html
+GZ18,Manikür,Salon,Güzellik salonu,TR,525,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ19,Pedikür,Salon,Güzellik salonu,TR,675,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ20,Protez tırnak,Salon,Güzellik salonu,TR,2250,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ21,Klasik cilt bakımı,Salon,Güzellik salonu,TR,2175,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ22,Kimyasal peeling,Salon,Güzellik salonu,TR,3300,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ23,Profesyonel makyaj,Salon,Güzellik salonu,TR,4500,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ24,Gece makyajı,Salon,Güzellik salonu,TR,1800,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ25,Yüz ağdası,Salon,Güzellik salonu,TR,600,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ26,Kaş boyama,Salon,Güzellik salonu,TR,600,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ27,Tüm vücut lazer epilasyon,Salon,Güzellik salonu,TR,5250,,"tek seans, İstanbul güzellik salonu ortalaması",2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ28,1 dakika solaryum,Salon,Güzellik salonu,TR,180,,İstanbul güzellik salonu ortalaması,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ29,"0,30 karat tektaş yüzük",Takı,Kuyumcu (online),TR,138420.97,,"pırlanta, 18 ayar, online satış",21 Eki 2026,"https://www.cimri.com/pirlanta-tek-tas-yuzuk/en-ucuz-harem-altin-rm0730-0-30-karat-tektas-pirlanta-yuzuk-fiyatlari,72451172"
+GZ30,1 gram 22 ayar bilezik,Takı,Kuyumcu,TR,6006,,"Kapalıçarşı satış, işçilik hariç",20 Eki 2026,https://www.birgun.net/haber/20-ekim-2026-sali-guncel-altin-fiyatlari-741360
+GZ31,20 gramlık 22 ayar bilezik,Takı,Kuyumcu,TR,120120,,"gram fiyatından, işçilik hariç",20 Eki 2026,https://www.birgun.net/haber/20-ekim-2026-sali-guncel-altin-fiyatlari-741360
+GZ32,4 gramlık 14 ayar alyans,Takı,Kuyumcu,TR,15546.24,,"altın değeri, işçilik hariç",20 Eki 2026,https://anlikaltinfiyatlari.com/
+GZ33,1 gram 18 ayar altın,Takı,Kuyumcu,TR,4999.83,,,20 Eki 2026,https://anlikaltinfiyatlari.com/
+GZ34,Gelinlik kiralama,Düğün,Düğün,TR,22500,,"standart model, 20–25 bin TL",Nis 2026,https://www.eleman.net/is-rehberi/maaslar-ve-ucretler/gelinlik-kiralama-fiyatlari-h20721
+GZ35,Düğün fotoğrafçısı,Düğün,Düğün,TR,27000,,ortalama,2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ36,Düğün salonu,Düğün,Düğün,TR,81000,,ortalama,2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ37,Söz ve nişan,Düğün,Düğün,TR,71000,,ortalama,2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ38,Geline takılan takılar,Düğün,Düğün,TR,63500,,"5'i bir yerde, ortalama",2025,https://www.karekod.org/blog/dugun-masraflari/
+GZ39,1 yıl her ay manikür,Salon,Güzellik salonu,TR,6300,,12 manikür,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ40,1 yıl her ay protez tırnak,Salon,Güzellik salonu,TR,27000,,12 seans,2026 başı,https://www.gazetebirlik.com/yasam/istanbul-manikur-fiyatlari-2026-guzellik-salonlarinda-pedikur-protez-tirnak-ve-cilt-bakimi-ucretleri-kac-tl/956472
+GZ41,100 Flormar oje,Makyaj,Gratis,TR,7900,,100 × 79 TL,21 Eki 2026,https://www.gratis.com/makyaj-c-501
+GW01,Chanel N°5 parfüm 50 ml,Parfüm,Chanel ABD,US,7833.32,$158,"Chanel ABD, vergi hariç",Eki 2026,https://www.chanel.com/us/fragrance/p/125530/n5-eau-de-parfum-spray/
+GW02,Chanel N°5 parfüm 50 ml,Parfüm,Chanel İngiltere,UK,7622.35,£115,Chanel İngiltere,Eki 2026,https://www.chanel.com/gb/fragrance/p/125530/n5-eau-de-parfum-spray/
+GW03,Chanel N°5 parfüm 50 ml,Parfüm,Chanel Fransa,FR,7119.24,€128,Chanel Fransa,Eki 2026,https://www.chanel.com/fr/parfums/p/125530/n5-eau-de-parfum-vaporisateur/
+GW04,Chanel N°5 parfüm 50 ml,Parfüm,Chanel Japonya,JP,6464.51,¥20.570,Chanel Japonya,Eki 2026,https://www.chanel.com/jp/fragrance/p/125530/n5-eau-de-parfum-spray/
+GW05,Dyson Airwrap Co-anda 2x,Cihaz,Dyson ABD,US,37183.0,"$749,99","liste fiyatı, vergi hariç",Eki 2026,https://www.techradar.com/home/hair-care/what-is-the-dyson-airwrap-co-anda-2x-and-how-is-it-better-than-the-airwrap
+GW06,Dyson Airwrap Co-anda 2x,Cihaz,Dyson İngiltere,UK,38442.49,"£579,99",liste fiyatı,Eki 2026,https://www.techradar.com/home/hair-care/what-is-the-dyson-airwrap-co-anda-2x-and-how-is-it-better-than-the-airwrap
+BZ001,Beaulis dudak kalemi,Makyaj,Gratis,TR,99,,Print It,21 Eki 2026,https://www.gratis.com/
+BZ002,LYKD dudak kalemi,Makyaj,Gratis,TR,149,,,21 Eki 2026,https://www.gratis.com/
+BZ003,Emily dudak kalemi,Makyaj,Gratis,TR,129,,Long Lasting,21 Eki 2026,https://www.gratis.com/
+BZ004,Beaulis crayon ruj,Makyaj,Gratis,TR,199,,Keep It Ink,21 Eki 2026,https://www.gratis.com/
+BZ005,Flormar Sheer Up ruj,Makyaj,Gratis,TR,549.5,,yarı transparan,21 Eki 2026,https://www.gratis.com/
+BZ006,Sheglam dudak parlatıcısı,Makyaj,Gratis,TR,449,,Glass Lock,21 Eki 2026,https://www.gratis.com/
+BZ007,Sheglam dolgunlaştırıcı ruj,Makyaj,Gratis,TR,434,,Pout Perfect,21 Eki 2026,https://www.gratis.com/
+BZ008,Sheglam likit ruj,Makyaj,Gratis,TR,499,,Bold Booster,21 Eki 2026,https://www.gratis.com/
+BZ009,Beaulis dudak yağı,Makyaj,Gratis,TR,135,,Chubby Drops,21 Eki 2026,https://www.gratis.com/
+BZ010,theBalm likit mat ruj,Makyaj,Gratis,TR,699,,Meet Matt(e) Hughes,21 Eki 2026,https://www.gratis.com/
+BZ011,LYKD mat ruj,Makyaj,Gratis,TR,199,,,21 Eki 2026,https://www.gratis.com/
+BZ012,Beaulis kaş kalemi,Makyaj,Gratis,TR,118,,Fill It,21 Eki 2026,https://www.gratis.com/
+BZ013,Beaulis keçe uçlu eyeliner,Makyaj,Gratis,TR,169,,Drag It,21 Eki 2026,https://www.gratis.com/
+BZ014,Beaulis dipliner,Makyaj,Gratis,TR,144,,Show It,21 Eki 2026,https://www.gratis.com/
+BZ015,Beaulis maskara,Makyaj,Gratis,TR,169,,Fake It,21 Eki 2026,https://www.gratis.com/
+BZ016,Beaulis hacim maskarası,Makyaj,Gratis,TR,194,,Define It,21 Eki 2026,https://www.gratis.com/
+BZ017,LYKD ink liner,Makyaj,Gratis,TR,239,,,21 Eki 2026,https://www.gratis.com/
+BZ018,LYKD kaş kalemi,Makyaj,Gratis,TR,159,,,21 Eki 2026,https://www.gratis.com/
+BZ019,LYKD pudralı kaş kalemi,Makyaj,Gratis,TR,210,,,21 Eki 2026,https://www.gratis.com/
+BZ020,LYKD asansörlü göz kalemi,Makyaj,Gratis,TR,199,,,21 Eki 2026,https://www.gratis.com/
+BZ021,Etude cushion fondöten,Makyaj,Gratis,TR,3500,,"Cloud Filter, yedekli",21 Eki 2026,https://www.gratis.com/
+BZ022,Beaulis makyaj sabitleyici sprey,Makyaj,Gratis,TR,240,,Stop It,21 Eki 2026,https://www.gratis.com/
+BZ023,Flormar likit kontür,Makyaj,Gratis,TR,899,,Puffy Liquid,21 Eki 2026,https://www.gratis.com/
+BZ024,Beaulis toz allık,Makyaj,Gratis,TR,489,,,21 Eki 2026,https://www.gratis.com/
+BZ025,Flormar likit allık,Makyaj,Gratis,TR,899,,Puffy Liquid,21 Eki 2026,https://www.gratis.com/
+BZ026,LYKD likit kapatıcı,Makyaj,Gratis,TR,398,,,21 Eki 2026,https://www.gratis.com/
+BZ027,Maybelline Cloudtopia allık,Makyaj,Gratis,TR,1200,,köpük dokulu,21 Eki 2026,https://www.gratis.com/
+BZ028,Stellary sabitleyici pudra,Makyaj,Gratis,TR,938,,Perfect Matte,21 Eki 2026,https://www.gratis.com/
+BZ029,Maybelline Instant Perfector fondöten,Makyaj,Gratis,TR,1999,,4'ü 1 arada,21 Eki 2026,https://www.gratis.com/
+BZ030,Beaulis toz pudra,Makyaj,Gratis,TR,639,,Bake My Day,21 Eki 2026,https://www.gratis.com/
+BZ031,Maybelline Lifter fondöten,Makyaj,Gratis,TR,1499,,Plump & Glow,21 Eki 2026,https://www.gratis.com/
+BZ032,Beaulis krem allık,Makyaj,Gratis,TR,339,,Bloom It,21 Eki 2026,https://www.gratis.com/
+BZ033,Flormar Mood Booster allık,Makyaj,Gratis,TR,849,,,21 Eki 2026,https://www.gratis.com/
+BZ034,Golden Rose sabitleyici sprey,Makyaj,Gratis,TR,650,,120 ml,21 Eki 2026,https://www.gratis.com/
+BZ035,wet n wild sabitleyici pudra,Makyaj,Gratis,TR,1178,,Photo Focus,21 Eki 2026,https://www.gratis.com/
+BZ036,Physicians Formula likit bronzer,Makyaj,Gratis,TR,1998,,Butter Glow,21 Eki 2026,https://www.gratis.com/
+BZ037,Bee Beauty micellar su,Cilt,Gratis,TR,149,,400 ml,21 Eki 2026,https://www.gratis.com/
+BZ038,Bee Beauty kolajen yüz kremi,Cilt,Gratis,TR,99.5,,50 ml,21 Eki 2026,https://www.gratis.com/
+BZ039,Guinot yüz temizleme kremi,Cilt,Gratis,TR,2500,,150 ml,21 Eki 2026,https://www.gratis.com/
+BZ040,Guinot oksijenlendirici yüz kremi,Cilt,Gratis,TR,5200,,50 ml,21 Eki 2026,https://www.gratis.com/
+BZ041,Guinot NeuroLife yüz serumu,Cilt,Gratis,TR,15000,,30 ml,21 Eki 2026,https://www.gratis.com/
+BZ042,Guinot anti-aging serum,Cilt,Gratis,TR,7500,,"Longue Vie+, 30 ml",21 Eki 2026,https://www.gratis.com/
+BZ043,Cashmere makyaj bazı,Cilt,Gratis,TR,699,,SPF 50+,21 Eki 2026,https://www.gratis.com/
+BZ044,Elseve mor şampuan,Saç,Gratis,TR,445,,200 ml,21 Eki 2026,https://www.gratis.com/
+BZ045,Hask argan yağlı şampuan,Saç,Gratis,TR,384,,355 ml,21 Eki 2026,https://www.gratis.com/
+BZ046,Elseve onarıcı şampuan,Saç,Gratis,TR,225,,300 ml,21 Eki 2026,https://www.gratis.com/
+BZ047,Gliss şampuan,Saç,Gratis,TR,174,,400 ml,21 Eki 2026,https://www.gratis.com/
+BZ048,Got2b kuru şampuan,Saç,Gratis,TR,347,,200 ml,21 Eki 2026,https://www.gratis.com/
+BZ049,Bonacure şampuan,Saç,Gratis,TR,940,,250 ml,21 Eki 2026,https://www.gratis.com/
+BZ050,Wella Invigo şampuan,Saç,Gratis,TR,756,,300 ml,21 Eki 2026,https://www.gratis.com/
+BZ051,Sebamed şampuan,Saç,Gratis,TR,669,,400 ml,21 Eki 2026,https://www.gratis.com/
+BZ052,Mamaaura kepek şampuanı,Saç,Gratis,TR,449,,250 ml,21 Eki 2026,https://www.gratis.com/
+BZ053,Bee Beauty kadın parfüm,Parfüm,Gratis,TR,269,,"EDT, 50 ml",21 Eki 2026,https://www.gratis.com/
+BZ054,Puccini Donna Black,Parfüm,Gratis,TR,999,,"EDP, 100 ml",21 Eki 2026,https://www.gratis.com/
+BZ055,Calvin Klein Obsession,Parfüm,Gratis,TR,3479,,"EDP, 100 ml",21 Eki 2026,https://www.gratis.com/
+BZ056,Versace Bright Crystal,Parfüm,Gratis,TR,8839,,"EDT, 90 ml",21 Eki 2026,https://www.gratis.com/
+BZ057,Burberry Brit Sheer,Parfüm,Gratis,TR,5689,,"EDT, 100 ml",21 Eki 2026,https://www.gratis.com/
+BZ058,Tommy Girl,Parfüm,Gratis,TR,3719,,"EDT, 100 ml",21 Eki 2026,https://www.gratis.com/
+BZ059,My Burberry,Parfüm,Gratis,TR,13979,,"EDP, 90 ml",21 Eki 2026,https://www.gratis.com/
+BZ060,Giorgio Armani Si,Parfüm,Gratis,TR,16219,,"EDP, 100 ml",21 Eki 2026,https://www.gratis.com/
+BZ061,Versace Red Jeans,Parfüm,Gratis,TR,3679,,"EDT, 75 ml",21 Eki 2026,https://www.gratis.com/
+BZ062,Versace Eros Pour Femme,Parfüm,Gratis,TR,9579,,"EDP, 100 ml",21 Eki 2026,https://www.gratis.com/
+BZ063,Avon Summer White,Parfüm,Gratis,TR,679,,"EDT, 50 ml",21 Eki 2026,https://www.gratis.com/
+BZ064,Pierre Cardin Lumiere De La Vie,Parfüm,Gratis,TR,1377,,"EDP, 50 ml",21 Eki 2026,https://www.gratis.com/
+BZ065,Ulric de Varens Vanille Caramel,Parfüm,Gratis,TR,595,,"EDP, 50 ml",21 Eki 2026,https://www.gratis.com/
+BZ066,Rexona sprey deodorant,Kişisel,Gratis,TR,259,,150 ml,21 Eki 2026,https://www.gratis.com/
+BZ067,Bee Beauty deodorant,Kişisel,Gratis,TR,99,,150 ml,21 Eki 2026,https://www.gratis.com/
+BZ068,Nivea sprey deodorant,Kişisel,Gratis,TR,289,,150 ml,21 Eki 2026,https://www.gratis.com/
+BZ069,Nivea Derma Control Clinical,Kişisel,Gratis,TR,487,,"deodorant, 150 ml",21 Eki 2026,https://www.gratis.com/
+BZ070,Sebamed deodorant,Kişisel,Gratis,TR,699,,150 ml,21 Eki 2026,https://www.gratis.com/
+BZ071,Orien tıraş köpüğü,Kişisel,Gratis,TR,79,,200 ml,21 Eki 2026,https://www.gratis.com/
+BZ072,Gillette Mach3 yedek bıçak,Kişisel,Gratis,TR,742,,4 adet,21 Eki 2026,https://www.gratis.com/
+BZ073,Gillette Permatik,Kişisel,Gratis,TR,219,,10'lu paket,21 Eki 2026,https://www.gratis.com/
+BZ074,Bic Flex4 tıraş bıçağı,Kişisel,Gratis,TR,209,,3'lü,21 Eki 2026,https://www.gratis.com/
+BZ075,Guinot tıraş sonrası balm,Kişisel,Gratis,TR,3500,,75 ml,21 Eki 2026,https://www.gratis.com/
+BZ076,Nivea Men tıraş köpüğü,Kişisel,Gratis,TR,240,,200 ml,21 Eki 2026,https://www.gratis.com/
+BZ077,Gillette ProGlide tıraş makinesi,Kişisel,Gratis,TR,963,,+ yedek bıçak,21 Eki 2026,https://www.gratis.com/
+BZ078,Bic metal tıraş bıçağı,Kişisel,Gratis,TR,109,,5'li,21 Eki 2026,https://www.gratis.com/
+BZ079,Benri diş macunu,Kişisel,Gratis,TR,102,,250 ml,21 Eki 2026,https://www.gratis.com/
+BZ080,Benri kürdanlı diş ipi,Kişisel,Gratis,TR,83,,50'li,21 Eki 2026,https://www.gratis.com/
+BZ081,Benri dil temizleyici,Kişisel,Gratis,TR,89,,,21 Eki 2026,https://www.gratis.com/
+BZ082,Benri diş fırçası,Kişisel,Gratis,TR,43,,Basic,21 Eki 2026,https://www.gratis.com/
+BZ083,Kum saatli çocuk diş fırçası,Kişisel,Gratis,TR,143,,Benri,21 Eki 2026,https://www.gratis.com/
+BZ084,Roc güneş spreyi,Güneş,Gratis,TR,1320,,"SPF 50, 200 ml",21 Eki 2026,https://www.gratis.com/
+BZ085,Benri güneş spreyi,Güneş,Gratis,TR,75.5,,"SPF 50, 150 ml",21 Eki 2026,https://www.gratis.com/
+BZ086,Bronzlaştırıcı mendil,Güneş,Gratis,TR,7,,"Benri, 1 adet",21 Eki 2026,https://www.gratis.com/
+BZ087,Guinot yüz güneş kremi,Güneş,Gratis,TR,7000,,"Newhite SPF 50, 30 ml",21 Eki 2026,https://www.gratis.com/
+BZ088,Neutrogena güneş kremi,Güneş,Gratis,TR,540,,"SPF 50+, 50 ml",21 Eki 2026,https://www.gratis.com/
+BZ089,L'Oréal Revitalift güneş kremi,Güneş,Gratis,TR,749,,"SPF 50+, 50 ml",21 Eki 2026,https://www.gratis.com/
+BZ090,Garnier güneş spreyi,Güneş,Gratis,TR,559,,"SPF 50+, 150 ml",21 Eki 2026,https://www.gratis.com/
+BZ091,Garnier C vitaminli güneş kremi,Güneş,Gratis,TR,415,,"SPF 50+, 40 ml",21 Eki 2026,https://www.gratis.com/
+BZ092,Siyah nokta temizleme cihazı,Cihaz,Gratis,TR,580,,Aprilla,21 Eki 2026,https://www.gratis.com/
+BZ093,Philips saç şekillendirici tarak,Cihaz,Gratis,TR,3299,,BHA301,21 Eki 2026,https://www.gratis.com/
+BZ094,Braun yüz tüy alma cihazı,Cihaz,Gratis,TR,1249,,FS1000,21 Eki 2026,https://www.gratis.com/
+BZ095,Philips epilasyon aleti,Cihaz,Gratis,TR,2099,,BRE247,21 Eki 2026,https://www.gratis.com/
+BZ096,Braun epilasyon cihazı,Cihaz,Gratis,TR,4999,,SE 911,21 Eki 2026,https://www.gratis.com/
+BZ097,Remington saç düzleştirici,Cihaz,Gratis,TR,2599,,Sapphire Luxe,21 Eki 2026,https://www.gratis.com/
+BZ098,Remington saç-sakal kesme makinesi,Cihaz,Gratis,TR,3999,,Power X6,21 Eki 2026,https://www.gratis.com/
+BZ099,Braun IPL lazer epilasyon aleti,Cihaz,Gratis,TR,15599,,Silk Expert Pro 3 seti,21 Eki 2026,https://www.gratis.com/
+BZ100,Revlon saç maşası,Cihaz,Gratis,TR,2899,,25 mm,21 Eki 2026,https://www.gratis.com/
+BZ101,Ice roller göz masaj aleti,Cihaz,Gratis,TR,229,,Kiwi,21 Eki 2026,https://www.gratis.com/
+BZ102,Maybelline kaş sabitleyici,Makyaj,Watsons,TR,849.9,,Super Lock Brow Glue,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ103,L'Oréal Telescopic maskara,Makyaj,Watsons,TR,649,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ104,NYX Buttermelt allık,Makyaj,Watsons,TR,1149.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ105,Flormar kapatıcı,Makyaj,Watsons,TR,353.9,,"Stay Perfect, 001 Fair",21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ106,NYX kapatıcı serum,Makyaj,Watsons,TR,1499.9,,Bare With Me,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ107,Revolution far paleti,Makyaj,Watsons,TR,449.9,,Forever Flawless,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ108,NYX far paleti,Makyaj,Watsons,TR,2399.9,,Ultimate Shadow,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ109,Note renkli nemlendirici,Makyaj,Watsons,TR,549.9,,3'ü 1 arada,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ110,Maybelline Lifter dudak parlatıcısı,Makyaj,Watsons,TR,719.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ111,Maybelline Instant Eraser kapatıcı,Makyaj,Watsons,TR,697.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ112,Maybelline Lash Sensational maskara,Makyaj,Watsons,TR,797.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ113,L'Oréal Panorama maskara,Makyaj,Watsons,TR,899.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ114,Flormar Volume Up maskara,Makyaj,Watsons,TR,499,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ115,NYX Epic Ink eyeliner,Makyaj,Watsons,TR,1049.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ116,Golden Rose kaş sabitleyici,Makyaj,Watsons,TR,326.9,,Max Hold,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ117,Max Factor 2000 Calorie maskara,Makyaj,Watsons,TR,524.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ118,Note aydınlatıcı,Makyaj,Watsons,TR,509.9,,Baked Highlighter,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+BZ119,Revolution Cherry far paleti,Makyaj,Watsons,TR,274.9,,,21 Eki 2026,https://www.watsons.com.tr/makyaj/c/100
+SY001,IKEA SALTMYRAN 3'lü kanepe,Ev,IKEA,TR,12999,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY002,IKEA KALLAX raf ünitesi,Ev,IKEA,TR,2199,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY003,IKEA OLSERÖD orta sehpa,Ev,IKEA,TR,2999,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY004,IKEA BESTÅ TV ünitesi kombinasyonu,Ev,IKEA,TR,42170,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY005,IKEA SKANSNÄS uzatılabilir yemek masası,Ev,IKEA,TR,39999,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY006,IKEA BILLY kitaplık,Ev,IKEA,TR,3799,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY007,IKEA STOCKHOLM lambader,Ev,IKEA,TR,6499,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY008,IKEA SAMBORD masa lambası,Ev,IKEA,TR,1699,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY009,IKEA GÄRDESGÅRD saklama kutusu,Ev,IKEA,TR,299,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY010,IKEA SNÖSISKA kokusuz mum,Ev,IKEA,TR,219,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY011,IKEA SMYCKA yapay çiçek,Ev,IKEA,TR,299,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY012,IKEA KONSTRUNDA boy aynası,Ev,IKEA,TR,5999,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY013,IKEA KONSTRUNDA vazo,Ev,IKEA,TR,1299,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY014,IKEA PS 1995 masa saati,Ev,IKEA,TR,499,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY015,IKEA HÖKGÖK kokulu mum,Ev,IKEA,TR,37.99,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY016,IKEA TOFSTÄRNA kokulu mum,Ev,IKEA,TR,649,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY017,IKEA LINDBYN yuvarlak ayna,Ev,IKEA,TR,3799,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY018,IKEA LÅNGNÄBB çiçeklik,Ev,IKEA,TR,179,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY019,IKEA TRENSUM makyaj aynası,Ev,IKEA,TR,349,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY020,IKEA VILJESTARK vazo,Ev,IKEA,TR,59.99,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY021,IKEA IKEA 365+ tencere seti,Ev,IKEA,TR,6299,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY022,IKEA DAGGASTER yemek takımı,Ev,IKEA,TR,4416,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY023,IKEA SMÖRFISK kupa seti,Ev,IKEA,TR,579,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY024,IKEA KORKEN kavanoz,Ev,IKEA,TR,299,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY025,IKEA UPPFYLLD süzgeç,Ev,IKEA,TR,99,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY026,IKEA SAFT LINGON yaban mersini şurubu,Ev,IKEA,TR,480,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY027,IKEA LAX dondurulmuş somon,Ev,IKEA,TR,295,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY028,IKEA PAX gardırop kombinasyonu,Ev,IKEA,TR,33020,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY029,IKEA TONSTAD karyola,Ev,IKEA,TR,45799,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY030,IKEA STORKLINTA şifonyer,Ev,IKEA,TR,11999,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY031,IKEA VIHALS divan,Ev,IKEA,TR,9299,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY032,IKEA NATTJASMIN nevresim takımı,Ev,IKEA,TR,2999,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY033,IKEA BRIMNES karyola,Ev,IKEA,TR,17999,,IKEA Türkiye,21 Eki 2026,https://www.ikea.com.tr
+SY034,Zara suni deri midi elbise,Moda,Zara,TR,2490,,Zara Türkiye,21 Eki 2026,https://www.zara.com/tr/tr/kadin-elbiseler-l1066.html
+SY035,Zara drapeli midi elbise,Moda,Zara,TR,1990,,Zara Türkiye,21 Eki 2026,https://www.zara.com/tr/tr/kadin-elbiseler-l1066.html
+SY036,Zara straplez tulum,Moda,Zara,TR,2690,,Zara Türkiye,21 Eki 2026,https://www.zara.com/tr/tr/kadin-elbiseler-l1066.html
+SY037,Zara pullu sırt dekolteli elbise,Moda,Zara,TR,4590,,Zara Türkiye,21 Eki 2026,https://www.zara.com/tr/tr/kadin-elbiseler-l1066.html
+SY038,Zara THE ITEM elbise,Moda,Zara,TR,8590,,Zara Türkiye,21 Eki 2026,https://www.zara.com/tr/tr/kadin-elbiseler-l1066.html
+SY039,Zara Marisa Berenson tunik,Moda,Zara,TR,9990,,Zara Türkiye,21 Eki 2026,https://www.zara.com/tr/tr/kadin-elbiseler-l1066.html
+SY040,Zara %100 keten tunik,Moda,Zara,TR,4590,,Zara Türkiye,21 Eki 2026,https://www.zara.com/tr/tr/kadin-elbiseler-l1066.html
+SY041,Chanel Classic Flap çanta (küçük),Lüks,Chanel ABD,US,560231.4,"$11,300","Chanel ABD, vergi hariç",Nis 2026,https://www.chanel.com/us/
+SY042,Chanel Classic Flap çanta (orta),Lüks,Chanel ABD,US,580062.6,"$11,700","Chanel ABD, vergi hariç",Nis 2026,https://www.chanel.com/us/
+SY043,Chanel Classic Flap çanta (Jumbo),Lüks,Chanel ABD,US,624682.8,"$12,600","Chanel ABD, vergi hariç",Nis 2026,https://www.chanel.com/us/
+SY044,Chanel Boy çanta (küçük),Lüks,Chanel ABD,US,342088.2,"$6,900","Chanel ABD, vergi hariç",Nis 2026,https://www.chanel.com/us/
+SY045,Chanel 19 çanta (küçük),Lüks,Chanel ABD,US,356961.6,"$7,200","Chanel ABD, vergi hariç",Nis 2026,https://www.chanel.com/us/
+SY046,Chanel 25 Mini çanta,Lüks,Chanel ABD,US,312341.4,"$6,300","Chanel ABD, vergi hariç",Nis 2026,https://www.chanel.com/us/
+SY047,Louis Vuitton Neverfull MM,Lüks,Louis Vuitton ABD,US,111054.72,"$2,240","Louis Vuitton ABD, vergi hariç",Tem 2026,https://us.louisvuitton.com/
+SY048,Louis Vuitton Speedy Bandoulière 25,Lüks,Louis Vuitton ABD,US,98164.44,"$1,980","Louis Vuitton ABD, vergi hariç",Tem 2026,https://us.louisvuitton.com/
+SY049,Louis Vuitton Alma BB,Lüks,Louis Vuitton ABD,US,99156.0,"$2,000","Louis Vuitton ABD, vergi hariç",Tem 2026,https://us.louisvuitton.com/
+SY050,Louis Vuitton OnTheGo MM,Lüks,Louis Vuitton ABD,US,168565.2,"$3,400","Louis Vuitton ABD, vergi hariç",Tem 2026,https://us.louisvuitton.com/
+SY051,Louis Vuitton Keepall Bandoulière 50,Lüks,Louis Vuitton ABD,US,134356.38,"$2,710","Louis Vuitton ABD, vergi hariç",Tem 2026,https://us.louisvuitton.com/
+SY052,Louis Vuitton Pochette Accessoires,Lüks,Louis Vuitton ABD,US,82299.48,"$1,660","Louis Vuitton ABD, vergi hariç",Tem 2026,https://us.louisvuitton.com/
+SY053,Rolex Submariner Date,Lüks,Rolex ABD,US,562710.3,"$11,350",Rolex ABD liste fiyatı,2026,https://www.rolex.com/
+SY054,Rolex Submariner (tarihsiz),Lüks,Rolex ABD,US,498258.9,"$10,050",Rolex ABD liste fiyatı,2026,https://www.rolex.com/
+SY055,Rolex Cosmograph Daytona (çelik),Lüks,Rolex ABD,US,837868.2,"$16,900",Rolex ABD liste fiyatı,2026,https://www.rolex.com/
+SY056,Rolex GMT-Master II,Lüks,Rolex ABD,US,585020.4,"$11,800",Rolex ABD liste fiyatı,2026,https://www.rolex.com/
+SY057,Royal Canin Sterilised kedi maması 2 kg,Evcil,Pet market,TR,969,,pet market,Eki 2026,https://www.cimri.com/
+SY058,Pro Plan yetişkin kedi maması 3 kg,Evcil,Pet market,TR,1367.1,,en ucuz online fiyat,21 Eki 2026,"https://www.cimri.com/kuru-kedi-mamasi/en-ucuz-purina-pro-plan-adult-tavuklu-3-kg-yetiskin-kedi-mamasi-fiyatlari,1428596768"
+SY059,Veteriner muayenesi,Evcil,Veteriner,TR,1000,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY060,Kuduz aşısı (evcil hayvan),Evcil,Veteriner,TR,1000,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY061,Kedi/köpek karma aşı,Evcil,Veteriner,TR,1600,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY062,İç-dış parazit uygulaması,Evcil,Veteriner,TR,500,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY063,Erkek kedi kısırlaştırma,Evcil,Veteriner,TR,5000,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY064,Dişi kedi kısırlaştırma,Evcil,Veteriner,TR,6500,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY065,Erkek köpek kısırlaştırma,Evcil,Veteriner,TR,6500,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY066,Dişi köpek kısırlaştırma,Evcil,Veteriner,TR,8500,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY067,Evcil hayvana mikroçip,Evcil,Veteriner,TR,1200,,veteriner taban ücret tarifesi,2026,https://www.istanbulvho.org.tr/
+SY068,Kahve Dünyası double Türk kahvesi,Kafe,Kahve Dünyası,TR,165,,Kahve Dünyası menüsü,Eyl 2026,https://www.kahvedunyasi.com/
+SY069,Kahve Dünyası Caffè Latte,Kafe,Kahve Dünyası,TR,190,,Kahve Dünyası menüsü,Eyl 2026,https://www.kahvedunyasi.com/
+SY070,Kahve Dünyası filtre kahve,Kafe,Kahve Dünyası,TR,150,,Kahve Dünyası menüsü,Eyl 2026,https://www.kahvedunyasi.com/
+SY071,Kahve Dünyası Gofrik,Kafe,Kahve Dünyası,TR,59,,Kahve Dünyası menüsü,Eyl 2026,https://www.kahvedunyasi.com/
+SY072,Kahve Dünyası Popçik,Kafe,Kahve Dünyası,TR,81,,Kahve Dünyası menüsü,Eyl 2026,https://www.kahvedunyasi.com/
+SY073,Müze Kart+ İstanbul (Museum Pass),Seyahat,İstanbul,TR,6500,,yabancı ziyaretçi kartı,Nis 2026,https://muze.gov.tr/
+SY074,Louvre Müzesi bileti,Seyahat,Paris,FR,1779.81,€32,AB dışı ziyaretçi,Oca 2026,https://www.louvre.fr/
+SY075,Topkapı Sarayı bileti,Seyahat,İstanbul,TR,3204.23,"$64,63","yabancı ziyaretçi, Harem dahil",Haz 2026,https://muze.gov.tr/
+SY076,Schönbrunn Sarayı Grand Tour,Seyahat,Viyana,AT,2517.57,"$50,78",yetişkin,Haz 2026,https://www.schoenbrunn.at/
+SY077,MoMA giriş bileti,Seyahat,New York,US,1487.34,$30,yetişkin,Haz 2026,https://www.moma.org/
+SY078,Mısır Müzesi bileti,Seyahat,Kahire,EG,191.37,"$3,86",yabancı yetişkin,Haz 2026,https://egymonuments.gov.eg/
+SY079,Gülşen konseri (en ucuz kategori),Konser,Harbiye,TR,1425,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY080,Gülşen konseri (orta kategori),Konser,Harbiye,TR,5130,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY081,Gülşen konseri (ön kategori),Konser,Harbiye,TR,8500,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY082,Gülşen konseri (VIP),Konser,Harbiye,TR,11000,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY083,ZAZ konseri (en ucuz kategori),Konser,Harbiye,TR,1808,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY084,ZAZ konseri (VIP),Konser,Harbiye,TR,10678,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY085,Chris Isaak konseri bileti,Konser,Harbiye,TR,3100,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY086,Ajda Pekkan konseri bileti,Konser,Harbiye,TR,3640,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY087,Imany konseri (VIP),Konser,Harbiye,TR,7995,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY088,Derya Bedavacı konseri (VIP),Konser,Harbiye,TR,5500,,Harbiye Açıkhava,Yaz 2026,https://www.biletix.com/
+SY089,Tarkan konseri (kısıtlı görüş),Konser,VW Arena,TR,1522.5,,Volkswagen Arena,2026,https://www.politikam.com/tarkan-volkswagen-arena-konser-biletleri-tukendi-mi-fiyatlari-2026
+SY090,Tarkan konseri (VIP tribün),Konser,VW Arena,TR,12600,,Volkswagen Arena,2026,https://www.politikam.com/tarkan-volkswagen-arena-konser-biletleri-tukendi-mi-fiyatlari-2026
+SY091,Dua Lipa konseri bileti,Konser,Berlin,DE,6396.2,€115,"Berlin, standart",2026,
+SY092,Gorillaz konseri bileti,Konser,Atina,GR,2780.95,€50,"Atina, en ucuz",2026,

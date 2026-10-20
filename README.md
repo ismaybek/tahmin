@@ -1,11 +1,11 @@
 # Hangisi Daha Pahalı?
 
-Retro arcade tarzında bir fiyat tahmin oyunu. İki ayrı oyun var: 300 fiyatlı **ana oyun** ve 165 fiyatlı **Güzellik & Bakım** modu. Ekranda iki ürün çıkar, hangisinin daha pahalı olduğunu bulursun. Yayıncıların canlı yayında oynayabilmesi için tasarlandı.
+Retro arcade tarzında bir fiyat tahmin oyunu. İki ayrı oyun var: 300 fiyatlı **ana oyun** ve 257 fiyatlı **Stil & Yaşam** oyunu. Ekranda iki ürün çıkar, hangisinin daha pahalı olduğunu bulursun. Yayıncıların canlı yayında oynayabilmesi için tasarlandı.
 
 ## Oyunlar
 
 - **Ana oyun:** Türkiye, Dünya ve Karışık paketleri (300 fiyat).
-- **Güzellik & Bakım:** Ana oyundan tamamen ayrı veri. Gratis ve Watsons'tan makyaj, cilt, saç, parfüm, deodorant, tıraş, ağız bakımı, güneş ürünleri ve bakım cihazları; Chanel N°5 (5 ülke), Dyson Airwrap (3 ülke), güzellik salonu hizmetleri, takı ve düğün masrafları. Kartlarda mağaza adı yazar.
+- **Stil & Yaşam:** Ana oyundan tamamen ayrı veri. Moda (Zara Türkiye), lüks çanta ve saat (Chanel, Louis Vuitton, Rolex ABD resmi fiyatları), ev ve dekorasyon (IKEA Türkiye), evcil hayvan (mama, veteriner taban ücret tarifesi), kafe (Kahve Dünyası), seyahat (müze ve saray biletleri) ve konser biletleri (Harbiye, Volkswagen Arena, Avrupa turneleri). Güzellik tarafı: Gratis ve Watsons'tan makyaj, cilt, saç, parfüm, deodorant, tıraş, ağız bakımı, güneş ürünleri ve bakım cihazları; Chanel N°5 (5 ülke), Dyson Airwrap (3 ülke), güzellik salonu hizmetleri, takı ve düğün masrafları. Kartlarda mağaza adı yazar.
 
 ## Modlar
 
@@ -29,7 +29,7 @@ Fiyatlar Ekim 2026 itibarıyla derlendi. Yabancı fiyatlar TCMB'nin 20 Ekim 2026
 - **iPhone 18 Pro:** Apple lansman fiyatları (Business Today derlemesi).
 - **Döviz:** TCMB, 20 Ekim 2026.
 
-Türkiye listesi kaynaklarıyla `data/fiyatlar-ekim-2026.xlsx` ve `data/turkiye-ek-fiyatlar.csv`, dünya listesi `data/dunya-fiyatlari.csv`, Güzellik & Bakım listesi `data/guzellik-bakim.csv` dosyasında. Big Mac verisinin MIT lisans metni `data/licenses/big-mac-data-MIT.txt` dosyasındadır. Numbeo verisi kullanılmamıştır (kullanım şartları ticari kullanıma ve otomatik veri toplamaya izin vermiyor).
+Türkiye listesi kaynaklarıyla `data/fiyatlar-ekim-2026.xlsx` ve `data/turkiye-ek-fiyatlar.csv`, dünya listesi `data/dunya-fiyatlari.csv`, Stil & Yaşam listesi `data/stil-yasam.csv` dosyasında. Big Mac verisinin MIT lisans metni `data/licenses/big-mac-data-MIT.txt` dosyasındadır. Numbeo verisi kullanılmamıştır (kullanım şartları ticari kullanıma ve otomatik veri toplamaya izin vermiyor).
 
 ## Çalıştırma
 
