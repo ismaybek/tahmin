@@ -24,7 +24,7 @@ Fiyatlar Ekim 2026 itibarıyla derlendi. Yabancı fiyatlar TCMB'nin 20 Ekim 2026
 - **iPhone 18 Pro:** Apple lansman fiyatları (Business Today derlemesi).
 - **Döviz:** TCMB, 20 Ekim 2026.
 
-Türkiye listesi kaynaklarıyla `data/fiyatlar-ekim-2026.xlsx`, dünya listesi `data/dunya-fiyatlari.csv` dosyasında. Numbeo verisi kullanılmamıştır (kullanım şartları ticari kullanıma ve otomatik veri toplamaya izin vermiyor).
+Türkiye listesi kaynaklarıyla `data/fiyatlar-ekim-2026.xlsx`, dünya listesi `data/dunya-fiyatlari.csv` dosyasında. Big Mac verisinin MIT lisans metni `data/licenses/big-mac-data-MIT.txt` dosyasındadır. Numbeo verisi kullanılmamıştır (kullanım şartları ticari kullanıma ve otomatik veri toplamaya izin vermiyor).
 
 ## Çalıştırma
 
@@ -34,3 +34,7 @@ Kurulum gerekmez. `index.html` dosyasını tarayıcıda aç ya da GitHub Pages i
 
 - `1` / `2` veya sol / sağ ok: kart seç
 - `Boşluk` / `Enter`: sonraki tur
+
+## Marka notu
+
+Big Mac, iPhone, PlayStation, Netflix, Spotify, Togg ve diğer ürün adları sahiplerinin ticari markalarıdır. Oyunda yalnızca fiyat karşılaştırması için ürünü tanımlamak amacıyla geçer; logo veya marka görseli kullanılmaz ve markalarla bir bağlantı ya da sponsorluk iddiası yoktur.
