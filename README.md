@@ -5,7 +5,7 @@ Retro arcade tarzında bir fiyat tahmin oyunu. İki ayrı oyun var: 300 fiyatlı
 ## Oyunlar
 
 - **Ana oyun:** Türkiye, Dünya ve Karışık paketleri (300 fiyat).
-- **Güzellik & Bakım:** Ana oyundan tamamen ayrı veri. Gratis ve Watsons'tan makyaj, cilt, saç, parfüm, deodorant, tıraş, ağız bakımı, güneş ürünleri ve bakım cihazları; Chanel N°5 (5 ülke), Dyson Airwrap (3 ülke), güzellik salonu hizmetleri, takı ve düğün masrafları. Kartlarda mağaza adı yazar; aynı ürün farklı mağazada farklı fiyattaysa karşı karşıya gelir.
+- **Güzellik & Bakım:** Ana oyundan tamamen ayrı veri. Gratis ve Watsons'tan makyaj, cilt, saç, parfüm, deodorant, tıraş, ağız bakımı, güneş ürünleri ve bakım cihazları; Chanel N°5 (5 ülke), Dyson Airwrap (3 ülke), güzellik salonu hizmetleri, takı ve düğün masrafları. Kartlarda mağaza adı yazar.
 
 ## Modlar
 
@@ -16,8 +16,8 @@ Retro arcade tarzında bir fiyat tahmin oyunu. İki ayrı oyun var: 300 fiyatlı
 ## Fiyat paketleri
 
 - **Türkiye:** 188 kalem. Market (sebze, çay, şeker, yağ, peynir...), sokak lezzetleri (simit, lahmacun, döner), resmi harçlar ve cezalar (pasaport, IMEI kaydı, bedelli askerlik, kırmızı ışık), ulaşım ve otoyol, eğlence (GTA 6, sinema, Süper Lig kombineleri), sigara ve rakı, berber, kira ve konut, otomobil, altın ve döviz.
-- **Dünya:** 60'tan fazla ülke. 55 ülkede Big Mac, 23 ülkede iPhone 18 Pro, ABD market fiyatları (süt, yumurta, patates, kıyma, kahve...), elektrik, spor salonu, asgari ücret. Turların çoğu "aynı ürün, farklı ülke" karşılaştırmasıdır.
-- **Karışık:** İkisi bir arada. Aynı ürünün Türkiye ve yurt dışı fiyatları sık sık karşılaşır.
+- **Dünya:** 60'tan fazla ülke. 55 ülkede Big Mac, 23 ülkede iPhone 18 Pro, ABD market fiyatları (süt, yumurta, patates, kıyma, kahve...), elektrik, spor salonu, asgari ücret. Her turda iki farklı ürün, çoğunlukla iki farklı ülkeden gelir.
+- **Karışık:** İkisi bir arada.
 
 Fiyatlar Ekim 2026 itibarıyla derlendi. Yabancı fiyatlar TCMB'nin 20 Ekim 2026 döviz satış kuruyla TL'ye çevrildi; TCMB'nin yayınlamadığı para birimleri The Economist'in Temmuz 2026 dolar kuru üzerinden çevrildi. ABD fiyatlarına satış vergisi dahil değildir.
 
@@ -39,7 +39,7 @@ Kurulum gerekmez. `index.html` dosyasını tarayıcıda aç ya da GitHub Pages i
 
 - İki ürünün fiyat farkı her zaman en az %5'tir; tahmin edilemeyecek kadar yakın fiyatlar karşılaşmaz.
 - Aynı ürünün versiyonları (iPhone kapasiteleri, Chanel N°5 boyları, Netflix paketleri, pasaport süreleri, "simit" ve "1 yıl her gün simit" gibi) aynı turda çıkmaz.
-- İstisna: aynı ürünün farklı ülke ya da mağazadaki fiyatı karşılaşabilir (Big Mac Türkiye–ABD, Flormar kapatıcı Gratis–Watsons), farkı %5'ten azsa yine çıkmaz.
+- Aynı ürünün farklı ülke ya da mağazadaki fiyatı da aynı turda çıkmaz (Big Mac Türkiye–ABD, Flormar kapatıcı Gratis–Watsons gibi).
 
 ## Kontroller
 
