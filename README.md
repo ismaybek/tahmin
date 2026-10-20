@@ -35,6 +35,12 @@ Türkiye listesi kaynaklarıyla `data/fiyatlar-ekim-2026.xlsx` ve `data/turkiye-
 
 Kurulum gerekmez. `index.html` dosyasını tarayıcıda aç ya da GitHub Pages ile yayınla.
 
+## Tur kuralları
+
+- İki ürünün fiyat farkı her zaman en az %5'tir; tahmin edilemeyecek kadar yakın fiyatlar karşılaşmaz.
+- Aynı ürünün versiyonları (iPhone kapasiteleri, Chanel N°5 boyları, Netflix paketleri, pasaport süreleri, "simit" ve "1 yıl her gün simit" gibi) aynı turda çıkmaz.
+- İstisna: aynı ürünün farklı ülke ya da mağazadaki fiyatı karşılaşabilir (Big Mac Türkiye–ABD, Flormar kapatıcı Gratis–Watsons), farkı %5'ten azsa yine çıkmaz.
+
 ## Kontroller
 
 - `1` / `2` veya sol / sağ ok: kart seç
