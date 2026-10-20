@@ -10,7 +10,7 @@ Retro arcade tarzında bir fiyat tahmin oyunu. Ekranda iki ürün çıkar, hangi
 
 ## Fiyat paketleri
 
-- **Türkiye:** Market, ulaşım, akaryakıt, teknoloji, abonelik, otomobil, kira, altın ve döviz fiyatları.
+- **Türkiye:** 117 kalem. Market (sebze, çay, şeker, yağ, peynir...), sokak lezzetleri (simit, lahmacun, döner), resmi harçlar ve cezalar (pasaport, IMEI kaydı, bedelli askerlik, kırmızı ışık), ulaşım ve otoyol, eğlence (GTA 6, sinema, Süper Lig kombineleri), sigara ve rakı, berber, kira ve konut, otomobil, altın ve döviz.
 - **Dünya:** 60'tan fazla ülke. 55 ülkede Big Mac, 23 ülkede iPhone 18 Pro, ABD market fiyatları (süt, yumurta, patates, kıyma, kahve...), elektrik, spor salonu, asgari ücret. Turların çoğu "aynı ürün, farklı ülke" karşılaştırmasıdır.
 - **Karışık:** İkisi bir arada. Aynı ürünün Türkiye ve yurt dışı fiyatları sık sık karşılaşır.
 
@@ -24,7 +24,7 @@ Fiyatlar Ekim 2026 itibarıyla derlendi. Yabancı fiyatlar TCMB'nin 20 Ekim 2026
 - **iPhone 18 Pro:** Apple lansman fiyatları (Business Today derlemesi).
 - **Döviz:** TCMB, 20 Ekim 2026.
 
-Türkiye listesi kaynaklarıyla `data/fiyatlar-ekim-2026.xlsx`, dünya listesi `data/dunya-fiyatlari.csv` dosyasında. Big Mac verisinin MIT lisans metni `data/licenses/big-mac-data-MIT.txt` dosyasındadır. Numbeo verisi kullanılmamıştır (kullanım şartları ticari kullanıma ve otomatik veri toplamaya izin vermiyor).
+Türkiye listesi kaynaklarıyla `data/fiyatlar-ekim-2026.xlsx` ve `data/turkiye-ek-fiyatlar.csv`, dünya listesi `data/dunya-fiyatlari.csv` dosyasında. Big Mac verisinin MIT lisans metni `data/licenses/big-mac-data-MIT.txt` dosyasındadır. Numbeo verisi kullanılmamıştır (kullanım şartları ticari kullanıma ve otomatik veri toplamaya izin vermiyor).
 
 ## Çalıştırma
 

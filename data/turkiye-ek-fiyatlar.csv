@@ -1,0 +1,53 @@
+id,urun,kategori,fiyat_tl,birim,tarih,kaynak
+N01,"4,5 L ayçiçek yağı",Market,499,A101 kampanya fiyatı,Eki 2026,https://www.timeturk.com/a101-10-ekim-aktuel-fiyat-listesi-aycicek-yagi-cay-ve-seker-indirimde
+N02,500 g Çaykur çay,Market,215,"Altınbaş, A101 kampanya",Eki 2026,https://www.timeturk.com/a101-10-ekim-aktuel-fiyat-listesi-aycicek-yagi-cay-ve-seker-indirimde
+N03,3 kg toz şeker,Market,149.5,A101 kampanya fiyatı,Eki 2026,https://www.timeturk.com/a101-10-ekim-aktuel-fiyat-listesi-aycicek-yagi-cay-ve-seker-indirimde
+N04,"2,5 kg pirinç",Market,134.5,"pilavlık, A101 kampanya",Eki 2026,https://www.timeturk.com/a101-10-ekim-aktuel-fiyat-listesi-aycicek-yagi-cay-ve-seker-indirimde
+N05,500 g makarna,Market,29.5,"Filiz, A101 kampanya",Eki 2026,https://www.timeturk.com/a101-10-ekim-aktuel-fiyat-listesi-aycicek-yagi-cay-ve-seker-indirimde
+N06,750 g süzme peynir,Market,195,"İçim, A101 kampanya",Eki 2026,https://www.timeturk.com/a101-10-ekim-aktuel-fiyat-listesi-aycicek-yagi-cay-ve-seker-indirimde
+N07,1 kg Rize Turist çay,Market,349,Çaykur,Eyl 2026,https://www.iscihaber.net/gundem/cay-fiyatlarinda-son-durum-1-kilo-cay-ne-kadar-oldu/259886
+N08,100 g Türk kahvesi,Market,98,Kurukahveci Mehmet Efendi,Oca 2026,https://www.habergazetesi.com.tr/kurukahveci-mehmet-efendi-100-gr-turk-kahvesi-fiyati
+Y11,Lahmacun,Yemek,140,İstanbul ortalaması,Nis 2026,https://www.karekod.org/blog/lahmacun-fiyatlari-en-ucuz-en-pahali-lahmacun/
+Y12,Döner,Yemek,200,Türkiye ortalaması,Şub 2026,https://www.hisse.net/haber/her-yerde-200-tl-sadece-orada-30-tl-icecekten-daha-uygun-fiyatli-tavuk-doner-55675
+Y13,Starbucks latte,Yemek,175,tek boy fiyatı,Oca 2026,https://www.24saatgazetesi.com/starbucksa-zam-geldi-mistarbucksta-en-ucuz-kahve-fiyati-2026da-kac-tl-starbucks-turkiyede-fiyatlari-guncelledi
+R01,Pasaport harcı,Resmi,14147,"3 yıldan uzun, defter bedeli hariç",2026,https://www.haberturk.com/pasaport-ve-ehliyet-ucreti-2026-pasaport-ve-ehliyet-harc-ucretleri-belli-oldu-3853269
+R02,Ehliyet ücreti,Resmi,1690,sürücü belgesi harcı,2026,https://www.haberturk.com/pasaport-ve-ehliyet-ucreti-2026-pasaport-ve-ehliyet-harc-ucretleri-belli-oldu-3853269
+R03,Kimlik kartı değiştirme,Resmi,220,nüfus harcı,2026,https://www.haberturk.com/pasaport-ve-ehliyet-ucreti-2026-pasaport-ve-ehliyet-harc-ucretleri-belli-oldu-3853269
+R04,Yurt dışı telefon IMEI kaydı,Resmi,57241,tek telefon,2026,https://www.teknoblog.com/2026-imei-kayit-ucreti/
+R05,Bedelli askerlik,Resmi,472653.6,"MSB, Temmuz–Aralık",Tem 2026,https://www.gzt.com/gundem/bedelli-askerlik-ucreti-2026-temmuz-son-dakika-bedelli-askerlik-ne-kadar-oldu-2026-temmuz-bedelli-askerlik-ucreti-kac-tl-4239813
+R06,YKS başvurusu,Resmi,700,"tek oturum, ÖSYM",2026,https://www.birgun.net/haber/yks-basvuru-ucreti-ne-kadar-kac-tl-2026-yks-basvuru-ucreti-aciklandi-690958
+R07,Kırmızı ışık cezası,Resmi,5000,ilk ihlal,2026,https://www.kazimceylan.av.tr/md/guncel-trafik-cezalari
+R08,Emniyet kemeri cezası,Resmi,2500,,2026,https://www.kazimceylan.av.tr/md/guncel-trafik-cezalari
+R09,Alkollü araç cezası,Resmi,25000,"ilk kez, otomobil",2026,https://www.kazimceylan.av.tr/md/guncel-trafik-cezalari
+R10,Yıllık MTV,Resmi,7282,"1300 cc altı, 1–3 yaş otomobil",2026,https://www.isbank.com.tr/blog/2026-yili-motorlu-tasitlar-vergisi-ne-kadardir
+V01,İstanbul–İzmir otoyolu,Ulaşım,2525,"otomobil, Osmangazi Köprüsü dahil",Tem 2026,https://www.isbank.com.tr/blog/2026-kopru-ve-otoyol-ucretleri
+V02,Sinema bileti,Eğlence,515,"tam bilet, Paribu Cineverse Vadistanbul",Eki 2026,https://www.karekod.org/blog/?p=4994
+V03,Sinema bileti (indirimli gün),Eğlence,160,"Pazartesi/Çarşamba, 2D",Eki 2026,https://www.karekod.org/blog/?p=4994
+V04,GTA 6,Eğlence,4000,standart sürüm,Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+V05,Galatasaray kombinesi,Eğlence,36000,"en ucuz, 2026–27",Eyl 2026,https://www.milligazete.com.tr/2026-2027-super-lig-kombine-bilet-fiyatlari-listesi-gs-fb-bjk-ts-en-ucuz-ve-en-pahali-kombine-hangi-takimda
+V06,Fenerbahçe kombinesi,Eğlence,27700,"en ucuz, 2026–27",Eyl 2026,https://www.milligazete.com.tr/2026-2027-super-lig-kombine-bilet-fiyatlari-listesi-gs-fb-bjk-ts-en-ucuz-ve-en-pahali-kombine-hangi-takimda
+V07,Beşiktaş kombinesi,Eğlence,20000,"en ucuz, 2026–27",Eyl 2026,https://www.milligazete.com.tr/2026-2027-super-lig-kombine-bilet-fiyatlari-listesi-gs-fb-bjk-ts-en-ucuz-ve-en-pahali-kombine-hangi-takimda
+V08,Trabzonspor kombinesi,Eğlence,15000,"en ucuz, 2026–27",Eyl 2026,https://www.milligazete.com.tr/2026-2027-super-lig-kombine-bilet-fiyatlari-listesi-gs-fb-bjk-ts-en-ucuz-ve-en-pahali-kombine-hangi-takimda
+V09,En pahalı Galatasaray kombinesi,Eğlence,275000,2026–27,Eyl 2026,https://www.milligazete.com.tr/2026-2027-super-lig-kombine-bilet-fiyatlari-listesi-gs-fb-bjk-ts-en-ucuz-ve-en-pahali-kombine-hangi-takimda
+Z01,Marlboro,Keyif,115,paket,Haz 2026,https://www.habergazetesi.com.tr/sigara-fiyatlari
+Z02,Parliament,Keyif,120,paket,Haz 2026,https://www.habergazetesi.com.tr/sigara-fiyatlari
+Z03,En ucuz sigara,Keyif,87,paket,Haz 2026,https://www.habergazetesi.com.tr/sigara-fiyatlari
+Z04,Yeni Rakı 70 cl,Keyif,1375,,Eki 2026,https://www.habergazetesi.com.tr/raki-fiyatlari
+Z05,Tekirdağ Rakısı 70 cl,Keyif,1475,,Eki 2026,https://www.habergazetesi.com.tr/raki-fiyatlari
+H01,Berberde saç tıraşı,Hizmet,500,İstanbul Berberler Odası,Oca 2026,https://www.habergazetesi.com.tr/istanbul-berberler-odasi-2026-yili-yeni-fiyat-listesini-acikladi-70-zam
+H02,Berberde saç + sakal,Hizmet,800,İstanbul Berberler Odası,Oca 2026,https://www.habergazetesi.com.tr/istanbul-berberler-odasi-2026-yili-yeni-fiyat-listesini-acikladi-70-zam
+H03,Çocuk tıraşı,Hizmet,350,İstanbul Berberler Odası,Oca 2026,https://www.habergazetesi.com.tr/istanbul-berberler-odasi-2026-yili-yeni-fiyat-listesini-acikladi-70-zam
+K11,İstanbul'da ortalama bir ev,Konut,7158580,"satış fiyatı, Endeksa",Tem 2026,https://www.yildirimgazetesi.com/endeksa-verilerinde-konut-ortalama-fiyati-52-milyon-tlye-cikti
+K12,Türkiye'de ortalama bir ev,Konut,5212875,"satış fiyatı, Endeksa",Tem 2026,https://www.yildirimgazetesi.com/endeksa-verilerinde-konut-ortalama-fiyati-52-milyon-tlye-cikti
+K13,İstanbul'da 1 m² ev,Konut,65078,"satış fiyatı, Endeksa",Tem 2026,https://www.yildirimgazetesi.com/endeksa-verilerinde-konut-ortalama-fiyati-52-milyon-tlye-cikti
+GT01,GTA 6 (US),Eğlence,3965.74,"$79,99",Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT02,GTA 6 (UK),Eğlence,4639.03,"£69,99",Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT03,GTA 6 (EU),Eğlence,4448.97,"€79,99",Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT04,GTA 6 (CH),Eğlence,4814.58,"CHF 79,90",Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT05,GTA 6 (JP),Eğlence,3079.84,¥9.800,Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT06,GTA 6 (KR),Eğlence,3371.99,₩89.800,Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT07,GTA 6 (IN),Eğlence,3089.62,₹5.999,Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT08,GTA 6 (CA),Eğlence,3883.31,"C$109,99",Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT09,GTA 6 (AU),Eğlence,4514.8,"A$129,95",Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT10,GTA 6 (IL),Eğlence,5273.02,₪319,Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
+GT11,GTA 6 (HU),Eğlence,5061.4,HUF 31.990,Haz 2026,https://www.donanimhaber.com/gta-6-en-ucuz-nerede-hangi-ulkede-ne-kadar-fiyatla-satiliyor--207308
